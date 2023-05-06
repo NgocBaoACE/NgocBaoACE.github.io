@@ -1687,7 +1687,7 @@ html {
 }
 
 .from-\[\#4AC29A\] {
-    --tw-gradient-from: #e71111f5;
+    --tw-gradient-from: #f30000;
     --tw-gradient-stops: var(--tw-gradient-from), var(--tw-gradient-to, rgb(74 194 154 / 0));
 }
 
@@ -1707,7 +1707,7 @@ html {
 }
 
 .to-\[\#BDFFF3\] {
-    --tw-gradient-to: #fcfcfcf8;
+    --tw-gradient-to: #000000fd;
 }
 
 .to-\[\#12FFF7\] {
